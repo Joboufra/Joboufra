@@ -36,6 +36,6 @@
 <img  />
 
 ## Used Languagues
-![joboufra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joboufra&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+[![Used Languagues](https://github-stats-extended.vercel.app/api/top-langs?username=Joboufra&langs_count=5&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Joboufra&langs_count=5&theme=dark)
 ## Github Stats
-![joboufra's Stats](https://github-readme-stats.vercel.app/api?username=joboufra&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Joboufra&rank_icon=github&hide_title=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Joboufra&rank_icon=github&hide_title=true&include_all_commits=true&theme=dark)
