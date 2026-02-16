@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Joboufra&color=blue)
 ## Skills
 <p align="center">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="auto" height="60" />
